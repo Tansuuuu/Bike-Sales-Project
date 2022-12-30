@@ -10,4 +10,4 @@ I created many charts.
 The analysis showed that bikes category bring the **highest profit**.
 
 
-<a href="https://https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
+<a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
