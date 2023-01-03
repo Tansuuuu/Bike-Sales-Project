@@ -4,7 +4,7 @@
 I focused on the between *2014* to *2018*.
 
 ## Vizualizations
-I created many charts most of them was bar chart.
+I created many charts most of them were bar charts.
 
 ## Takeaways
 The analysis showed that bikes category bring the **highest profit**.
