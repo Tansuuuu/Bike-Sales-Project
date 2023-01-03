@@ -1,10 +1,10 @@
 # Bike Sales Transaction Project
 
 ## Data Cleaning
-I focused on the between 2014 to 2018.
+I focused on the between *2014 to *2018.
 
 ## Vizualizations
-I created many charts.
+I created many charts most of them was bar chart.
 
 ## Takeaways
 The analysis showed that bikes category bring the **highest profit**.
