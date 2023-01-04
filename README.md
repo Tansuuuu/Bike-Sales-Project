@@ -9,6 +9,10 @@ I created many charts most of them were bar and line charts.
 ## Takeaways
 The analysis showed that bikes category bring the **highest profit**.
 **Road Bikes** and **Mountain Bikes** have the highest order.
+**Accessories** orders big affect decline in bike sales. Because of bikes orders decrease from *2015*.
+The best time to sell bike orders *2014* and *2016* in *June*.
+
+
 
 
 <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
