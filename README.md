@@ -14,7 +14,7 @@ The analysis showed that bikes category bring the **highest profit**.
 <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
 
 <img src =
-"https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/bikCapture.PNG" width="350" height="auto" />
+"https://anthonysmoak.files.wordpress.com/2016/05/37832342_s.jpg" width="350" height="auto" />
 
 
 I want to see if GITHUB is working...
