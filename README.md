@@ -1,4 +1,3 @@
-
 ## Hello World! 🌎 
 
 <a href="https://cdn.futura-sciences.com/sources/images/Big-Data.jpg"><img align="right" width="349" height="auto" src="https://cdn.futura-sciences.com/sources/images/Big-Data.jpg"></a>
@@ -8,9 +7,8 @@ Data analyst with experience in interpreting and analyzing data in order to deli
 Skills: 
 Data Analysis: 
 -**SQL**: Joins, Union, Case
--**Python**: Pandas, Numpy, Scipy, Pandas, Matplotlib, Seaborn, Bokeh
+-**Python**: Pandas, Numpy, Scipy, Pandas, Matplotlib
 -**Excel**: Pivot Tables, V-lookup, IF function, Plotting 
--**R** 
 Data Visualization/Presentation:
 -**Tableau**
 -**PowerBI**
@@ -18,31 +16,50 @@ Data Visualization/Presentation:
 -**PowerPoint**
 
 ## Let's Connect! 🤝
-# Bike Sales Transaction Project
 
-## Data Cleaning
-I removed duplicates.
-
-## Vizualizations
-I created many charts most of them were bar and line charts.
-
-## Takeaways
-The analysis showed that bikes category bring the **highest profit**.
-**Road Bikes** and **Mountain Bikes** have the highest order.
-**Accessories** orders big affect decline in bike sales. Because of bikes orders decrease from *2015*.
-The best time to sell bike orders *2014* and *2016* in *June*.
+- My home: <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a> 🌐
 
 
+# Bike-Sales-Transcation-Analysis Dashboard
+
+## Description
+
+Utilizing Excel to analyze Bike sale data.
+
+ Features:
+
+- They have a positive correlation, but there is a few outliers that means these outliers brought more profit for the company, and revenue is the largest then profit which is good for the company.
+- There was a decrease in profit between 2014 to 2015 and there was an increase from 2015 to 2016.
+- Line graph shows the trend of  sales per category from 2011 to 2016. Accessories category is the most demanding orders and profitable, and bikes orders decrease  from 2015. 
+- The line graph shows that bikes is the most gainful/profitable category comparing by clothing and accessories.
+- Mountain Bikes and Road Bikes have the highest orders, the reason why Touring Bikes have the lowest orders because of two them, these are reason of decrease.
+- Road Bikes has decrease because it brings more profit this is the reason that why it was a decrease from 2015 to 2016
+- Water Bottle 30 oz. is the best seller product.
+- The line chart graphs explains that Males bike orders are good in united kingdom unlike females, and male bike orders are less decrease in the USA than female bike orders.
+- The best time to sell bikes order in December by 2015(1052 bike orders),in June by 2014 and 2016(1098 bike orders).
 
 
-<a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
+
+
+## Vizulizations
+
+I created many kind of charts using the necessary columns using Excel.
 
 <img src =
 "https://cdn.shopify.com/s/files/1/1225/6884/products/voytek-charcoal-xl_394x.jpg?v=1670516983" width="350" height="auto" />
 
 
-I want to see if GITHUB is working...
-I add extra rows.
+![image] <img src = "" />
+
+![image] <img src = "" />
+
+## Technology
+To complete this project, I used the following tool:
+- Excel
+
+
+
+<a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
 
 
 
