@@ -61,6 +61,10 @@ I created many kind of charts using the necessary columns using Excel.
 
 <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel5.jpg" />
 
+<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel6.jpg" />
+
+<img src = "" />
+
 <img src = "" />
 
 ## Technology
