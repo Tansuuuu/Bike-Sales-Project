@@ -49,21 +49,16 @@ I created many kind of charts using the necessary columns using Excel.
 "https://cdn.shopify.com/s/files/1/1225/6884/products/voytek-charcoal-xl_394x.jpg?v=1670516983" width="350" height="auto" />
 
 
- <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel.jpg" />
+ <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel.jpg" />                <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel1.jpg" />
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel1.jpg" />
+<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel2.jpg" />                <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel3.jpg" />
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel2.jpg" />
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel3.jpg" />
+<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel4.jpg" />                <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel5.jpg" />
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel4.jpg" />
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel5.jpg" />
+<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel6.jpg" />                <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel7.jpg" />
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel6.jpg" />
-
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel7.jpg" />
 
 <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel8.jpg" />
 
