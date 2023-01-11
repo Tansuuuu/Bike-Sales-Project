@@ -53,7 +53,7 @@ I created many kind of charts using the necessary columns using Excel.
 
 <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel1.jpg" />
 
-<img src = "" />
+<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel2.jpg" />
 
 <img src = "" />
 
