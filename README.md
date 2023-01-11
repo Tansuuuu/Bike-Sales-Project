@@ -49,9 +49,19 @@ I created many kind of charts using the necessary columns using Excel.
 "https://cdn.shopify.com/s/files/1/1225/6884/products/voytek-charcoal-xl_394x.jpg?v=1670516983" width="350" height="auto" />
 
 
-![image] <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel.jpg" />
+ <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel.jpg" />
 
-![image] <img src = "" />
+<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/Excel1.jpg" />
+
+<img src = "" />
+
+<img src = "" />
+
+<img src = "" />
+
+<img src = "" />
+
+<img src = "" />
 
 ## Technology
 To complete this project, I used the following tool:
