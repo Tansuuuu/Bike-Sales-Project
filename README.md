@@ -54,13 +54,9 @@ I created many kind of charts using the necessary columns using Excel.
 <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/bexcel2.jpg" />
 
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel4.jpg" />                <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel5.jpg" />
+<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/bexcel3.jpg" />
 
 
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel6.jpg" />                <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel7.jpg" />
-
-
-<img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/excel8.jpg" />
 
 ## Technology
 To complete this project, I used the following tool:
