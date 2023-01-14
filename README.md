@@ -24,7 +24,7 @@ Data Visualization/Presentation:
 
 ## Description
 
-Utilizing Excel to analyze Bike sale data.
+I was cleaning raw data in Excel, analyzing the data. and reporting my findings.
 
  Features:
 
