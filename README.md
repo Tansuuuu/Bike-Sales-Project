@@ -46,7 +46,7 @@ I was cleaning raw data in Excel, analyzing the data. and reporting my findings.
 I created many kind of charts using the necessary columns using Excel.
 
 <img src =
-"https://cdn.shopify.com/s/files/1/1225/6884/products/voytek-charcoal-xl_394x.jpg?v=1670516983" width="350" height="auto" />
+"https://github.com/tansu-ayaz/Bike-Sales-Project/blob/main/Bike.jpg" width="350" height="auto" />
 
 
  <img src = "https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/bexcel1.jpg" />
